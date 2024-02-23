@@ -299,23 +299,14 @@
         margin-top: 20px;
         border: none; 
     }
+    .button-1 {
+        font-size: 14px; 
+    }
+    .things-to-do p {
+        font-size: 14px; 
+    }
 }
 
-
-.things-to-do p {
-    font-size: 14px; 
-    margin: 5px 0;
-}
-
-.button-container {
-    width: 100%;
-    text-align: center;
-}
-
-.line-break {
-    width: 100%;
-    margin-top: auto;
-}
 @media (max-width: 576px) {
     .things-to-do {
         width: 100%; 
